@@ -1,0 +1,6 @@
+{
+  "name": "SIMS",
+  "description": "Student Information Management System - Manage, track, and empower student academic journeys with separate student and admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
